@@ -1,0 +1,16 @@
+substr: cat chuoi
+stoi: chuyen chuoi thanh so int
+stoll: chuyen chuoi thanh so long long
+append(string ): noi chuoi
+
+Chỉ định truy cập:
+
+pulic: các thành viên có thể truy cập từ bên ngoài class.
+private: không thể truy cập các thành viên từ bên ngoài class
+pritected: Các thành viên không thể được truy cập từ bên ngoài lớp, tuy nhiên chúng có thể được truy cập trong các lớp kế thừa.
+
+File:
+
+ofstream: tạo và ghi vào 1 tệp tin.
+ifstream: đọc tệp tin.
+fstream: tạo, đọc, ghi tệp tin.
